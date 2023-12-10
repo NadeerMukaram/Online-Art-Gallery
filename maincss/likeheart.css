@@ -1,0 +1,101 @@
+.heart {
+   background-image: url(../images/heart.png);
+    background-color: white;
+    background-repeat: no-repeat; 
+    background-position: 4px 5px;
+    border: none;           
+    cursor: pointer;       
+	height: 64px;
+    padding-left: 46px;
+    vertical-align: middle;
+    color: hsl(0deg 0% 19%);	
+    border-color: hsl(0, 0%, 60%);
+    background-size: 40px 40px;
+    font-size: 20px;
+ 
+}
+
+.heart_inactive {
+   background-image: url(../images/heart_inactive.png);
+    background-color: white;
+    background-repeat: no-repeat; 
+    background-position: 4px 5px;
+    border: none;           
+    cursor: pointer;       
+	height: 64px;
+    padding-left: 46px;
+    vertical-align: middle;
+    color: hsl(0deg 0% 19%);	
+    border-color: hsl(0, 0%, 60%);
+    background-size: 40px 40px;
+    font-size: 20px;
+ 
+}
+
+.like {
+   background-image: url(../images/like_nzro.png);
+    background-color: white;
+    background-repeat: no-repeat; 
+    background-position: 4px 5px;
+    border: none;           
+    cursor: pointer;       
+	height: 64px;
+    padding-left: 46px;
+    vertical-align: middle;
+    color: hsl(0deg 0% 19%);	
+    border-color: hsl(0, 0%, 60%);
+    background-size: 40px 40px;
+    font-size: 20px;
+ 
+}
+
+.unlike {
+ background-image: url(../images/like_nzro_alt_v1.png);
+    background-color: white;
+    background-repeat: no-repeat; 
+    background-position: 4px 6px;
+    border: none;           
+    cursor: pointer;       
+	height: 64px;
+    padding-left: 46px;
+    vertical-align: middle;
+    color: hsl(224deg 40% 37%);
+    border-color: hsl(0, 0%, 60%);
+    background-size: 40px 40px;
+    font-size: 20px;
+
+}
+
+.vote {
+    background-image: url(../images/upvote_inactive.png);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    border: none;
+    cursor: pointer;
+    height: 34px;
+    padding-left: 18px;
+    vertical-align: middle;
+    color: hsl(0deg 0% 19%);
+    border-color: hsl(0, 0%, 60%);
+    background-size: 20px 20px;
+    font-size: 20px;
+}
+
+
+.unvote {
+ background-image: url(../images/upvote_active.png);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    border: none;
+    cursor: pointer;
+    height: 34px;
+    padding-left: 18px;
+    vertical-align: middle;
+    color: hsl(0deg 0% 19%);
+    border-color: hsl(0, 0%, 60%);
+    background-size: 20px 20px;
+    font-size: 20px;
+
+}
