@@ -8,5 +8,10 @@ $port = "";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
 
+// Login connection
+$username = "";
+$email	  = "";
+$errors   = array();
 
+$db = mysqli_connect('localhost:3307', 'root', '', 'nzro');
 ?>
